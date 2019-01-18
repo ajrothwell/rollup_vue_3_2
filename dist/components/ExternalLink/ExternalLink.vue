@@ -9,7 +9,7 @@
 </template>
 
 <script>
-  import TopicComponent from './TopicComponent.vue';
+  import TopicComponent from '../TopicComponent.vue';
 
   export default {
     mixins: [TopicComponent],

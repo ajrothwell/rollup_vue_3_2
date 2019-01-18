@@ -28,7 +28,7 @@
 
 <script>
   // console.log('in Badge.vue script');
-  import TopicComponent from './TopicComponent.vue';
+  import TopicComponent from '../TopicComponent.vue';
   // import ExternalLink from './ExternalLink.vue';
 
   export default {
