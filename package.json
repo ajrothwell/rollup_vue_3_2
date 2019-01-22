@@ -1,7 +1,8 @@
 {
-  "name": "rollup_vue_3_2",
+  "name": "rollup_vue_5",
   "sideEffects": false,
   "version": "1.0.0",
+  "main": "./main.js",
   "module": "./src/components",
   "license": "MIT",
   "scripts": {
