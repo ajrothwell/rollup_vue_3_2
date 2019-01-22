@@ -1,6 +1,6 @@
 import ExternalLink from './ExternalLink'
 
-import { use, registerComponent } from '../../utils/plugins'
+import { use, registerComponent } from '../../Util/plugins'
 
 const Plugin = {
     install(Vue) {
