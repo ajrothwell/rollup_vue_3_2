@@ -1,5 +1,5 @@
 {
-  "name": "rollup-test",
+  "name": "rollup_vue_3_2",
   "sideEffects": false,
   "version": "1.0.0",
   "module": "./src/components",
